@@ -1,5 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working on developing full-stack web applications using ReactJS, Node.js, and MongoDB.<br>👯I'm looking to collaborate on exciting projects that push the boundaries of technology and user experience.<br>🌱 I'm currently learning advanced concepts in software architecture and design patterns and Tech like NextJs , ThreeJs , etc.<br>💬 Feel free to ask me about my experience developing web applications with the MERN stack.
+---
+[![](https://visitcount.itsvg.in/api?id=ishhcode&icon=8&color=1)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -20,13 +22,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ishhcode&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishhcode&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
